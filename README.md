@@ -6,6 +6,7 @@ Meu nome é Gabriel Siqueira
 Estou estudando na Alura
 
 -Estou me desenvolvendo na www.alura.com.br
+
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 
